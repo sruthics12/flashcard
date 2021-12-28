@@ -35,8 +35,6 @@ Note: 2 Decks of the same name are not allowed.
 
 ## Authors
 
-Contributors names and contact info
-
  Sruthi
  [@LinkedIn](https://www.linkedin.com/in/c-s-sruthi/)
 
