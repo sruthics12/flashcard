@@ -37,8 +37,8 @@ Note: 2 Decks of the same name are not allowed.
 
 Contributors names and contact info
 
-ex. Sruthi
-ex. [@LinkedIn](https://www.linkedin.com/in/c-s-sruthi/)
+ Sruthi
+ [@LinkedIn](https://www.linkedin.com/in/c-s-sruthi/)
 
 
 ## Acknowledgments
