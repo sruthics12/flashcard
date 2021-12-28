@@ -5,7 +5,7 @@ A simple Flash card Application
 ## Description
 
 We can login, create, edit and review decks of flashcards. Also has the import deck feature!
-find the working web app [@here]('https://flaskcard.css6.repl.co/')
+find the working web app  [@Here](https://flaskcard.css6.repl.co/)
 
 
 ### Dependencies
