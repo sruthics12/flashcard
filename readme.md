@@ -44,4 +44,4 @@ Contributors names and contact info
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [Bootstap](https://getbootstrap.com/)
+* [Bootstrap](https://getbootstrap.com/)
